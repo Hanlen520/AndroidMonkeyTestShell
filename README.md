@@ -1,0 +1,2 @@
+# AndroidMonkeyTestShell
+Android简单地monkey测试脚本
